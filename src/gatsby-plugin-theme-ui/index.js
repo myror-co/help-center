@@ -1,12 +1,12 @@
 export default {
   colors: {
     text: "#333",
-    headerBackground: "#607d8b",
+    headerBackground: "#250f2b",
     headerText: "white",
     paperBackgroundColor: "white",
     paperHoverBackgroundColor: "#fcfcfc",
-    paperHeadingColor: "#1CAEE0",
-    paperHoverHeadingColor: "#1f8ded",
+    paperHeadingColor: "#B053EA",
+    paperHoverHeadingColor: "#c27fef",
     paperBorderColor: "transparent",
     paperDescriptionColor: "rgb(86, 88, 103)",
     collectionBackgroundColor: "#EBEEF1",

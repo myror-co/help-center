@@ -10,6 +10,7 @@ import Fuse from "fuse.js"
 import * as icons from "../utils/icons"
 import { rhythm } from "../utils/typography"
 import Logo from "./logo"
+import logoText from "../../assets/logo-text.png"
 
 function SearchInput(props) {
   const [text, setText] = React.useState("")
@@ -307,9 +308,9 @@ class Layout extends React.Component {
             fontSize: 1,
           }}
         >
-          <Logo color="currentColor" size="36px" />
+          <img src={logoText} width="100px" style={{marginBottom:0}} />
           <div sx={{ mt: 2 }}>
-            Built with
+            All rights reserved - 
             {` `}
             {/*
               PLEASE DO NOT REMOVE THIS LINK.
@@ -331,7 +332,7 @@ class Layout extends React.Component {
                 },
               }}
             >
-              Dom's Help Center
+              Myror
             </a>
           </div>
         </footer>

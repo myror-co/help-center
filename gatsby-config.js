@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Free Help Center`,
-    author: `Dominik Ferber`,
+    title: `Myror Help Center`,
+    author: `Thomas Cosialls`,
     // You'd normally use a description like
     // "Advice and answers by the MyCompany-Team"
-    description: `Get a free self-hosted Help Center like this one`,
-    siteUrl: `https://help.dferber.de/`,
+    description: `Welcome to Myror Help Center`,
+    siteUrl: `https://help.myror.co/`,
     language: "en",
     texts: {
       allCollectionsText: "All Collections",
@@ -82,11 +82,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Help Center`,
-        short_name: `GatsbyJS`,
+        name: `Myror Help Center`,
+        short_name: `Myror`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#250F2B`,
         display: `minimal-ui`,
         icon: `assets/favicon.png`,
       },
