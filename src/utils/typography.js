@@ -2,6 +2,8 @@ import Typography from "typography"
 // import Wordpress2016 from "typography-theme-wordpress-2016"
 import moragaTheme from "typography-theme-moraga"
 
+moragaTheme.headerWeight = 'normal'
+
 moragaTheme.overrideThemeStyles = () => {
   return {
     li: {
@@ -34,7 +36,7 @@ moragaTheme.overrideThemeStyles = () => {
 }
 
 // delete Wordpress2016.googleFonts
-delete moragaTheme.googleFonts
+// delete moragaTheme.googleFonts
 
 const typography = new Typography(moragaTheme)
 

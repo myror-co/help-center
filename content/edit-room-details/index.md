@@ -6,22 +6,18 @@ modifiedDate: null
 description: "Edit room details"
 ---
 
-_To use Myror, you need to register an account. The product is currently free during its beta version._
+To edit information for a room, navigate to *Sites > {Room Name} > Settings*.
+You can edit the elements in the array below.s
 
-### Register your account
+| Name          | Display Location      | Required  |
+| ------------- |:-------------:| -----:|
+| Title      | Room details page | True |
+| Description     | Room details page      |   True |
+| Neighbordhood | Room details page      |    True |
 
-Fill in your email address, choose your account password and click on the **"Sign up"** button.
-
-![Screenshot of register](./register.png)
-
-### Verify your email address
-
-We'll send you an email to verify your email address. Look for an email with the subject line "Myror - Verify Email Address" and click on the **"Verify Email Address"** button.
-
-![Screenshot of verify](./verify.png)
+![Screenshot of room](./editroom.png)
 
 ## Next step
 ____
 
-
-You can now [create a new site](/articles/create-site).
+Do not forget to [connect a calendar](/articles/connect-calendar) for this room to start accepting bookings.

@@ -6,22 +6,9 @@ modifiedDate: null
 description: "Connect your room calendar to display availibilities on your site"
 ---
 
-_To use Myror, you need to register an account. The product is currently free during its beta version._
+To delete your account, go to your [User Settings](https://app.myror.co/user/settings) page.
+Scroll down to the **Danger Zone** to delete your Myror account.
 
-### Register your account
+> <small style="color:orange"><b>Warning:</b> Deleting your account is definitive and cannot be reverted</small>
 
-Fill in your email address, choose your account password and click on the **"Sign up"** button.
-
-![Screenshot of register](./register.png)
-
-### Verify your email address
-
-We'll send you an email to verify your email address. Look for an email with the subject line "Myror - Verify Email Address" and click on the **"Verify Email Address"** button.
-
-![Screenshot of verify](./verify.png)
-
-## Next step
-____
-
-
-You can now [create a new site](/articles/create-site).
+![Screenshot of delete](./delete.png)

@@ -6,22 +6,18 @@ modifiedDate: null
 description: "Add a custom domain"
 ---
 
-_To use Myror, you need to register an account. The product is currently free during its beta version._
+When you create a new booking site, Myror automatically generate your site address by prepending your site name to the *myror.website* domain name.
 
-### Register your account
+However, if you own a domain name, you can use it and make it point to your booking site.
 
-Fill in your email address, choose your account password and click on the **"Sign up"** button.
+### Add your custom domain to Myror
 
-![Screenshot of register](./register.png)
+Go to *Sites > {Site Name} > Settings > Domains* and add your custom domain name then click on the **"Save"** button.
 
-### Verify your email address
+![Screenshot of register](./domain.png)
 
-We'll send you an email to verify your email address. Look for an email with the subject line "Myror - Verify Email Address" and click on the **"Verify Email Address"** button.
+Then click on the **"Setup DNS"** button to finalize the configuration from your own domain name provider panel.
 
-![Screenshot of verify](./verify.png)
-
-## Next step
-____
+![Screenshot of register](./dns.png)
 
 
-You can now [create a new site](/articles/create-site).

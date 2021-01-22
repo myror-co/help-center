@@ -33,8 +33,8 @@ export default {
   },
   radii: [0, 2, 4, 8],
   fonts: {
-    body: "system-ui, sans-serif",
-    heading: "system-ui, sans-serif",
+    body: "Segoe UI, sans-serif",
+    heading: "Segoe UI, sans-serif",
     monospace: "Menlo, monospace",
   },
   fontWeights: {

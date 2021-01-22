@@ -7,6 +7,7 @@ export {
   // people --------------------------------------------------------------------
   FaRegHandPeace,
   FaPeopleCarry,
+  FaExternalLinkAlt,
   // FaPersonBooth,
   // FaUserAltSlash,
   // FaUserAlt,
@@ -117,3 +118,10 @@ export {
   // FaMicrophoneAlt,
   FaRegListAlt,
 } from "react-icons/fa"
+
+export {
+  RiPushpin2Line,
+  RiRocket2Line,
+  RiEditBoxLine,
+  RiUserSettingsLine
+} from "react-icons/ri"

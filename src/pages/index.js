@@ -19,6 +19,7 @@ function concatArticles(node) {
 }
 
 class HelpCenterIndex extends React.Component {
+
   render() {
     return (
       <Layout

@@ -38,9 +38,10 @@ Your generated website URL ended by `myror.website` will be visible below your s
 ## Next step
 ____
 
-Congrats! You know have your own branded booking site with a single room. Click on the **"Visit"** button to see your booking site live and start sharing your site link with friends and guests. 
+Congrats! You now have your own branded booking site with a single room. Click on the **"Visit"** button to see your booking site live and start sharing your site link with friends and guests.
 
 You are not done yet! We suggest you read the following tutorials to make your site ready for booking requests, customize its appearance and add more rooms: 
 - [Edit site details](/articles/edit-site-details)
 - [Add a custom domain](/articles/custom-domain)
 - [Connect your room calendar](/articles/connect-calendar)
+- [Add extra rooms](/articles/add-room)

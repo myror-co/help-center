@@ -6,22 +6,19 @@ modifiedDate: null
 description: "Edit the site content, logo, contact details and social network links"
 ---
 
-_To use Myror, you need to register an account. The product is currently free during its beta version._
+To edit your site information, navigate to *Sites > Site Details > Settings*.
+You can edit the elements in the array below. We are precising for each where they are displayed in your booking site. 
 
-### Register your account
+| Name          | Display Location      | Required  |
+| ------------- |:-------------:| -----:|
+| Title      | Landing page | True |
+| Logo     | Site header      |   False |
+| Description | Landing page      |    True |
+| Email | Site header, Contact page      |    True |
+| Phone | Site header, Contact page      |    False |
+| Facebook Page Link | Site footer      |    False |
+| Google Page Link | Site footer      |    False |
+| Instagram Page Link | Site footer      |    False |
 
-Fill in your email address, choose your account password and click on the **"Sign up"** button.
-
-![Screenshot of register](./register.png)
-
-### Verify your email address
-
-We'll send you an email to verify your email address. Look for an email with the subject line "Myror - Verify Email Address" and click on the **"Verify Email Address"** button.
-
-![Screenshot of verify](./verify.png)
-
-## Next step
-____
-
-
-You can now [create a new site](/articles/create-site).
+![Screenshot of main](./main.png)
+![Screenshot of social](./social.png)

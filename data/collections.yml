@@ -25,7 +25,7 @@
 - id: get-started
   title: Get Started
   description: Start here to get your first booking site in 5 minutes
-  icon: "FaBox"
+  icon: "RiRocket2Line"
   articles:
     - file: ../content/register-account/index.md
     - file: ../content/create-site/index.md
@@ -33,12 +33,13 @@
 - id: website-settings
   title: Website Settings
   description: How to customize your booking site from A to Z
-  icon: "FaRegListAlt"
+  icon: "RiEditBoxLine"
   sections:
     - id: details
       title: Site Details
       articles:
         - file: ../content/edit-site-details/index.md
+        - file: ../content/delete-site/index.md
     - id: rooms
       title: Rooms
       articles:
@@ -59,6 +60,6 @@
 - id: account-settings
   title: Account Settings
   description: ''
-  icon: "FaPeopleCarry"
+  icon: "RiUserSettingsLine"
   articles:
     - file: ../content/delete-account/index.md

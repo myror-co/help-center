@@ -3,7 +3,8 @@
 import { jsx } from "theme-ui"
 import React from "react"
 import { Link, useStaticQuery, graphql, navigate } from "gatsby"
-import { FaSearch } from "react-icons/fa"
+import { RiSearchLine, RiExternalLinkLine } from "react-icons/ri"
+
 import { useCombobox } from "downshift"
 import Fuse from "fuse.js"
 
@@ -99,7 +100,7 @@ function SearchInput(props) {
           cursor: "text",
         }}
       >
-        <FaSearch color={focused ? "#828A97" : "rgba(255,255,255,0.9)"} />
+        <RiSearchLine color={focused ? "#828A97" : "rgba(255,255,255,0.9)"} />
       </label>
       <input
         id="search"
@@ -238,7 +239,13 @@ class Layout extends React.Component {
                 pb: 2,
               }}
             >
-              <Logo color="white" size={["36px", "48px"]} />
+              <div>
+                <Logo color="white" size={["36px", "48px"]} />
+                <a sx={{float:`right`, fontSize:[1], color:`white`, mt:`17px`}} href="https://app.myror.co" targte="_blank">
+                <RiExternalLinkLine sx={{mr:`5px`}}/>
+                <span>Go to Myror</span>
+                </a>
+              </div>
               <p sx={{ pt: 2, pb: 2, mb: 2, mt: 2, fontSize: [2, 3] }}>
                 {description}
               </p>
@@ -322,7 +329,7 @@ class Layout extends React.Component {
               You are amazing for keeping it here, thank you.
             */}
             <a
-              href="https://help.dferber.de"
+              href="https://myror.co"
               target="_blank"
               sx={{
                 color: "footerTextColor",

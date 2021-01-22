@@ -4,7 +4,7 @@ module.exports = {
     author: `Thomas Cosialls`,
     // You'd normally use a description like
     // "Advice and answers by the MyCompany-Team"
-    description: `Welcome to Myror Help Center`,
+    description: `Find answers to your questions and discover Myror features!`,
     siteUrl: `https://help.myror.co/`,
     language: "en",
     texts: {
@@ -27,7 +27,35 @@ module.exports = {
     "gatsby-plugin-theme-ui",
     `gatsby-transformer-yaml`,
     `gatsby-plugin-sitemap`,
-    "gatsby-plugin-simple-analytics",
+    {
+      resolve: 'gatsby-plugin-crisp-chat',
+      options: {
+        websiteId: '255d78bb-2b92-44bf-9056-b2108ef1f4c2',
+        enableDuringDevelop: true, // Optional. Disables Crisp Chat during gatsby develop. Defaults to true.
+        defer: true, // Optional. Sets the Crisp loading script to defer instead of async. Defaults to false.
+        enableImprovedAccessibility: false // Optional. Sets aria-label attribute on pop-up icon for screen readers. Defaults to true.
+      },
+    },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        // The property ID; the tracking code won't be generated without it
+        trackingId: "G-H3BRCJRZSN",
+        // Defines where to place the tracking script - `true` in the head and `false` in the body
+        head: false,
+        // Setting this parameter is optional
+        anonymize: true,
+        // Setting this parameter is also optional
+        respectDNT: true,
+        // Delays sending pageview hits on route update (in milliseconds)
+        pageTransitionDelay: 0,
+        defer: false,
+        // Any additional optional fields
+        sampleRate: 5,
+        siteSpeedSampleRate: 10,
+        cookieDomain: "help.myror.co",
+      },
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
