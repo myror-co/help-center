@@ -20,4 +20,4 @@ You can edit the elements in the array below.s
 ## Next step
 ____
 
-Do not forget to [connect a calendar](/articles/connect-calendar) for this room to start accepting bookings.
+Do not forget to [import a calendar](/articles/import-calendar) for this room to start accepting bookings.

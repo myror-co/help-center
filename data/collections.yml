@@ -45,12 +45,18 @@
       articles:
         - file: ../content/add-room/index.md
         - file: ../content/edit-room-details/index.md
-        - file: ../content/connect-calendar/index.md
+        - file: ../content/import-calendar/index.md
+        - file: ../content/export-calendar/index.md
         - file: ../content/delete-room/index.md
     - id: domain
       title: Domain name
       articles:
         - file: ../content/custom-domain/index.md
+    - id: payment
+      title: Payments
+      articles:
+        - file: ../content/card-payment/index.md
+        - file: ../content/connect-paypal/index.md
     - id: plugins
       title: Plugins
       articles:

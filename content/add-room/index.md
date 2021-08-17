@@ -28,4 +28,4 @@ You can finally click on the green **"Add room""** button, your new room will be
 ## Next
 ____
 
-Do not forget to [connect a calendar](/articles/connect-calendar) for this room to start accepting bookings.
+Do not forget to [import a calendar](/articles/import-calendar) for this room to start accepting bookings.
