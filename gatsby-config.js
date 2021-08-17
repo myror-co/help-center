@@ -117,7 +117,7 @@ module.exports = {
         short_name: `Myror`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#250F2B`,
+        theme_color: `#171634`,
         display: `minimal-ui`,
         icon: `assets/favicon.png`,
       },
