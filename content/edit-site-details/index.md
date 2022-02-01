@@ -16,6 +16,7 @@ You can edit the elements in the array below. We are precising for each where th
 | Description | Landing page      |    True |
 | Email | Site header, Contact page      |    True |
 | Phone | Site header, Contact page      |    False |
+| Currency| Room details, Booking      |    True |
 | Facebook Page Link | Site footer      |    False |
 | Google Page Link | Site footer      |    False |
 | Instagram Page Link | Site footer      |    False |
