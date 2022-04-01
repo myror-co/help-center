@@ -18,11 +18,12 @@ Here is a list of images that are editable in every templates:
 
 #### Logo
 
-The logo of your website appears on the top center of your Landing Page and is also used as your favicon.
+The logo of your website appears on the **top center of your Landing Page** and is also used as your **favicon**.
 
 #### Image 1 (Main Background Picture)
 
-Image 1 is the main pictureof your website, used as the fullscreen background picture of your Landing Page. 
-It is set automatically when you import your first Airbnb listing. 
+Image 1 is the main picture of your website, used as the **fullscreen background picture** of your Landing Page. 
+
+> It is set automatically when you import your first Airbnb listing. 
 
 ![Screenshot of sites](./location.png)
