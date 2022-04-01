@@ -39,6 +39,7 @@
       title: Site Details
       articles:
         - file: ../content/edit-site-details/index.md
+        - file: ../content/featured-images/index.md
         - file: ../content/delete-site/index.md
     - id: rooms
       title: Rooms
