@@ -6,7 +6,7 @@ modifiedDate: null
 description: "Edit the site content, logo, contact details and social network links"
 ---
 
-To edit your site information, navigate to *Sites > Site Details > Settings*.
+To edit your site information, navigate to *Sites > Site Settings > Global Settings*.
 You can edit the elements in the array below. We are precising for each where they are displayed in your booking site. 
 
 | Name          | Display Location      | Required  |
