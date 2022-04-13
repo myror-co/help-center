@@ -29,6 +29,7 @@
   articles:
     - file: ../content/register-account/index.md
     - file: ../content/create-site/index.md
+    - file: ../content/find-your-airbnb-listing-link/index.md
 
 - id: website-settings
   title: Website Settings
