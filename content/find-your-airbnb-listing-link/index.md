@@ -12,13 +12,13 @@ To get the Airbnb link we need to generate your direct booking site, first go to
 
 You can simply copy the URL of the Airbnb listing page, and paste it in Myror.
 
-![url paste airbnb](./copy_url.png)
+![url paste airbnb](./share.png)
 
 ### Option 2
 
 Click the **Share** button on the right side of the listing name.
 
-![share button](./share.png)
+![share button](./copy_url.png)
 
 In the pop up that opens, click on **"Copy Link"** and paste it in Myror.
 

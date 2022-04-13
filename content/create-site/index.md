@@ -16,7 +16,7 @@ When you are on the [Sites](https://app.myror.co/sites) page, click on **"New si
 
 ### Choose a name and paste an Airbnb Listing URL
 
-To generate a booking site with one first room, you simply need to **choose a site name** and **paste a link to an Airbnb listing**. The booking site content (texts and images) will be generated using the data provided by the Airbnb listing. You will be able to add/remove rooms and modify website content later so you can pick any Airbnb listing that you want to showcase on your site.
+To generate a booking site with one first room, you simply need to **choose a site name** and [**paste a link to an Airbnb listing**](/articles/find-your-airbnb-listing-link). The booking site content (texts and images) will be generated using the data provided by the Airbnb listing. You will be able to add/remove rooms and modify website content later so you can pick any Airbnb listing that you want to showcase on your site.
 
 ![Screenshot of create](./create.png)
 
